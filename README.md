@@ -13,3 +13,6 @@ This repository is used to house template files and other repository infrastruct
 - [.gitignore Templates](https://github.com/github/gitignore)
   - A collection of useful .gitignore templates. Some provided templates that may be popular: Node, Python, Java, Kotlin, etc.
   - Alternatively, use [gitignore.io](https://www.gitignore.io) to generate a `.gitignore` file for your project
+ 
+## Considerations for this repository
+Consider using this as a template repository (would need to be enabled in General Settings). This would not duplicate repository settings, but it would bring over the README and template files.
