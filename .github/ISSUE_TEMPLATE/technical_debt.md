@@ -13,7 +13,13 @@ A clear and concise description of what the tech debt is and the reason of being
 ## Impact :bomb:
 Description of the current or possible impact of this tech debt.
 
+### Impact Severity
+- [ ] Small
+- [ ] Medium
+- [ ] Large
+
 ## Estimated effort :timer_clock:
+<!--- You can change this to whatever effort-estimation method you use -->
 - [ ] Small
 - [ ] Medium
 - [ ] Large
@@ -47,6 +53,6 @@ Solution 2.
 <!--- Document other evidence if needed-->
 -
 
-## Name/Link to Associated PR
+## Name/Link to Associated PR :link:
 <!--- Reference the name and/or link to the PR this was introduced with (if applicable) -->
 -
