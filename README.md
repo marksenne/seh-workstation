@@ -19,6 +19,3 @@ This repository is used to house template files and other repository infrastruct
   - Alternatively, use [gitignore.io](https://www.gitignore.io) to generate a `.gitignore` file for your project
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
   - A lightweight convention for naming commit messages. They add structure to your commit history and open up automation opportunities.
- 
-## Considerations for this repository
-Consider using this as a template repository (would need to be enabled in General Settings). This would not duplicate repository settings, but it would bring over the README and template files.
